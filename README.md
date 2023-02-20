@@ -5,4 +5,4 @@ Medical Cost Datasets Analysis using Python to showcase:
 * Visualization Using Matplotlib/Seaborn
 
 
-[Click project](Medical Cost Analysis.ipynb)
+[Click project](https://github.com/a-alejo/Medical-Cost-Analysis/blob/main/Medical%20Cost%20Analysis.ipynb)
